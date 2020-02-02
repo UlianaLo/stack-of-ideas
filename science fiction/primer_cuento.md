@@ -7,3 +7,6 @@ Mi nombre es carlos y me obsesiona la limpieza. Mi cuarto es pulcro y ordenado, 
 ## La escoba.
 
 Ella es mi escoba, extension de mi ser. Mi tacto, mi olfato. Me das calma en momentos de malestar y pesadumbre, pues eres tu la única que puede remover las costras de imperfección que existen en mi alma. Mi reflejo; mi casa, mis adentros; tu escoba mia, que te enclaustras dentro del cambio desalineando la simetría.
+
+
+![alt text](images/primer_cuento.jpeg)
